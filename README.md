@@ -149,6 +149,10 @@ I --> J[Owner Accepts or Votes]
    - Frontend: `http://localhost:5173`
    - Backend API: `http://localhost:5000`
 
+6. **Application runs in**
+   - Local:   http://localhost:8080/
+   
+
 
 ## Project Structure
 
