@@ -270,7 +270,4 @@ For major changes, please open an issue first to discuss what you would like to 
 - [Shadcn/ui](https://ui.shadcn.com/)
 - All open source contributors and the Stack Overflow community for inspiration
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
