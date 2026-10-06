@@ -1,5 +1,5 @@
 
-# Problem Statement:
+
 # StackIt  – A Minimal Q&A Forum Platform
 
 **StackIt is a minimal question-and-answer platform that supports collaborative 
